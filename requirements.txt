@@ -1,0 +1,4 @@
+requests
+PyMuPDF
+sentence-transformers
+chromadb
