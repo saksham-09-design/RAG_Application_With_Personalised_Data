@@ -1,0 +1,7 @@
+Ollama Download: https://ollama.com/download/windows
+
+Model Used: Mistral 7B 
+
+Use Command: ollama pull mistral
+
+Run Model: ollama run mistral
