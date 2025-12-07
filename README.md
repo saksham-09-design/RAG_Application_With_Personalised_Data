@@ -67,6 +67,19 @@ from chromadb import PersistentClient
 
 ---
 
+## 🖥️ Recommended System Requirements
+
+* **i5 8th Gen+ or equivalent AMD Procesor**
+* **8 GB RAM**
+* **4 GB Dedicated Graphics Memory**
+---
+## 💻 Avg Response Time 20 Seconds on My Laptop
+
+* **i7 9750H Procesor**
+* **16 GB RAM**
+* **4 GB Nvidia GTX 1650 Graphics Card**
+---
+
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
